@@ -1,2 +1,2 @@
 # Login-Form-Bootstrap
-Layout of Login Form using HTM, CSS, Bootstrap
+Simple Layout of Login Form using HTM, CSS, Bootstrap
